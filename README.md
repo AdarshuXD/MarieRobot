@@ -32,42 +32,7 @@ Thanks To All The [Dev](https://t.me/MarieUpdate/8) To Give Their Important Time
 
 ###      ─「 Deployment 」─
 
-<details>
-	<summary>Heroku/Railway</summary>
-	<br>
-	<b>
-The easiest way to deploy this bot is VIA.
-		In order to reply you just have fill the necessary environment variables and done!</b>
-	
-  <h1>
-    <p align="center">
-        <a href="https://deploy-btn.vercel.app/">
-            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-        </a>
-</h1>
-</details> 
 
-
-
-
-
-
-<details>
-	<summary>Okteto</summary>
-	<br>
-	<b>
-click on the button to deploy to okteto.
-	
-  <h1>
-    <p align="center">
-        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/TheTelegramSupport/Marie">
-            <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-informational?style=for-the-badge&logo=Okteto" alt="Deploy">
-        </a>
-</h1>
-</details> 
-
-	Note:- Fill https://github.com/TheTelegramSupport/Marie/blob/main/Marie/confing.py Before Use
-	
 <details>
 	<summary> Vps Deployment </summary>
 
@@ -90,24 +55,3 @@ click on the button to deploy to okteto.
 HERE YOU GO MARIE IS DEPLOYED🥀
 
 </details> 
-
-
-
-
-ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴛʜɪɴɢꜱ ᴛʜᴀᴛ ᴋʀɪꜱᴛʏ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴡɪᴛʜ:
-
-+ [x] ꜰᴏʀᴋꜱ
-+ [x] ᴍᴀɪɴ ʀᴇᴘᴏ ᴇʀʀᴏꜱ/ɢᴜɪᴅᴀɴᴄᴇ
-+ [x] ᴋᴀɴɢꜱ [ꜰᴏʀᴋꜱ ᴡɪᴛʜ ɴᴏ ᴛʀᴀᴄᴇ ᴏꜰ ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ ᴀʀᴇ ᴄᴏɴꜱɪᴅᴇʀᴇᴅ ᴋᴀɴɢꜱ]
-+ [x] ᴅᴇᴘʟᴏʏɪɴɢ ʏᴏᴜʀ ʙᴏᴛ	
-	
-###      ─「 ꜱᴛᴀᴛᴜꜱ 」─
-
-+ [x] ᴍᴀɪɴᴛᴀɪɴᴇᴅ
-+ [x] ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ɪɴᴄʟᴜᴅᴇᴅ
-+ [x] ꜰʀᴇᴇ
-+ [x] ᴏᴘᴇɴꜱᴏᴜʀᴄᴇᴅ
-+ [x] ᴡᴏʀᴋɪɴɢ ɪɴꜱᴛᴀɴᴄᴇ ᴀᴠᴀɪʟᴀʙʟᴇ
-+ [x] ᴄʟᴇᴀɴ ᴄᴏᴅᴇ
-+ [x] ᴅᴏᴄᴋᴇʀ/ʟᴏᴄᴀʟ ᴍᴀᴄʜɪɴᴇ
-+ [x] ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏ [ᴠɪꜱɪᴛ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ꜰᴏʀ ʙʏᴘᴀꜱꜱ ᴍᴇᴛʜᴏᴅ]
