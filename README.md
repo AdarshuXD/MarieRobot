@@ -1,7 +1,7 @@
-![Marie](https://th.bing.com/th/id/OIP.hzsGP0ZSS9GpWcWaeDAQQgHaHa?pid=ImgDet&rs=1)
+![Marie](https://telegra.ph/file/dfb9b919a3090f2b44081.jpg)
 # Unmaintained
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+KRISTY+AN+ADVANCE+BOT)](https://github.com/Adarshuxd/MarieRobot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+MARIE+AN+ADVANCE+BOT)](https://github.com/Adarshuxd/MarieRobot)
 
 <p align="center">
     ─「 Support 」─
